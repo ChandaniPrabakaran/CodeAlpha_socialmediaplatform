@@ -12,7 +12,6 @@ There are several ways of editing your application.
 
 Simply visit the [Project](https://lovable.dev/projects/0e87bce3-5431-4d22-aaae-e22a70259545) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
